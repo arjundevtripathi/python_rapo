@@ -90,3 +90,5 @@ import random
 #     generate_coupon_code()
     
     
+from date import even_odd
+print(even_odd(14))
