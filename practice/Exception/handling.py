@@ -60,31 +60,35 @@
 
 
 
-import os
-filename = "student.txt"
+# import os
+# filename = "student.txt"
 
-# CREATE
-with open(filename, "w") as file:
-    file.write("Arjun\n")
-    file.write("Rahul\n")
-    print("File Created")
+# # CREATE
+# with open(filename, "w") as file:
+#     file.write("Arjun\n")
+#     file.write("Rahul\n")
+#     print("File Created")
 
-# READ
-with open(filename, "r") as file:
-    print("File Content:")
-    print(file.read())
+# # READ
+# with open(filename, "r") as file:
+#     print("File Content:")
+#     print(file.read())
 
-# UPDATE (Append)
-with open(filename, "a") as file:
-    file.write("Ankit\n")
-    file.write("Aman\n")
+# # UPDATE (Append)
+# with open(filename, "a") as file:
+#     file.write("Ankit\n")
+#     file.write("Aman\n")
 
-# READ AGAIN
-with open(filename, "r") as file:
-    print("\nUpdated Content:")
-    print(file.read())
+# # READ AGAIN
+# with open(filename, "r") as file:
+#     print("\nUpdated Content:")
+#     print(file.read())
 
-# DELETE
-if os.path.exists(filename):
-    os.remove(filename)
-    print("\nFile deleted successfully.")
+# # DELETE
+# if os.path.exists(filename):
+#     os.remove(filename)
+#     print("\nFile deleted successfully.")
+    
+    
+    
+    

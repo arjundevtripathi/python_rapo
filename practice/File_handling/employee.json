@@ -1,0 +1,16 @@
+{
+    "id": 1001,
+    "name": "Arjun",
+    "department": "Data Science",
+    "salary": 95000,
+    "skills": [
+        "Python",
+        "SQL",
+        "Machine Learning"
+    ],
+    "address": {
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India"
+    }
+}
