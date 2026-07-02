@@ -1,0 +1,5 @@
+Negative: This is very bad product.It did not meet my expectations at all.
+Positive: This product exceeded my expectations. I am very satisfied with my purchase.
+Bad Products: Shoes, Shirt, Pants
+Good Products: Laptop, Smartphone, Headphones
+--------------------------------------------------

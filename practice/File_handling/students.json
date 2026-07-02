@@ -1,17 +1,31 @@
-[
+{
+  "student": [
     {
-        "id": 101,
-        "name": "Arjun",
-        "marks": 90
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "age": 20,
+      "gender": "Male",
+      "email": "john.doe@example.com",
+      "phone_number": "123-456-7890"
     },
     {
-        "id": 102,
-        "name": "Rahul",
-        "marks": 85
+      "id": 2,
+      "first_name": "Jane",
+      "last_name": "Williams",
+      "age": 23,
+      "gender": "Female",
+      "email": "jane.williams@example.com",
+      "phone_number": "999-888-7777"
     },
     {
-        "id": 103,
-        "name": "Amit",
-        "marks": 88
+      "id": 3,
+      "first_name": "Alice",
+      "last_name": "Johnson",
+      "age": 19,
+      "gender": "Female",
+      "email": "alice.johnson@example.com",
+      "phone_number": "555-123-4567"
     }
-]
+  ]
+}

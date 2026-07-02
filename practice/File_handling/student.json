@@ -1,6 +1,14 @@
 {
-    "id": 122,
-    "name": "arjun",
-    "age": 24,
-    "marks": 92.0
+    "database": "etl",
+    "table_name": "student",
+    "columns": {
+        "ID":"INT PRIMARY KEY",
+        "FIRST_NAME":"VARCHAR(100)",
+        "LAST_NAME":"VARCHAR(100)",
+        "AGE":"INT",
+        "GENDER":"VARCHAR(10)",
+        "EMAIL":"VARCHAR(100)",
+        "PHONE_NUMBER":"VARCHAR(15)"
+
+    }
 }
