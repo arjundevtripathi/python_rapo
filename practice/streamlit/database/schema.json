@@ -1,0 +1,10 @@
+{
+    "database": "student_manage_system",
+    "table": "all_student",
+    "columns": {
+        "id": "int primary key auto_increment",
+        "name": "varchar(255)",
+        "age": "int",
+        "stu_reg_no": "varchar(25)"
+    }
+}
