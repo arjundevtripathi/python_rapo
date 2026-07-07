@@ -1,0 +1,19 @@
+2026-07-03 11:44:19,205 - INFO - === Starting ETL Pipeline ===
+2026-07-03 11:44:19,205 - ERROR - File not found: student_schema.json
+2026-07-03 11:45:40,803 - INFO - === Starting ETL Pipeline ===
+2026-07-03 11:45:41,126 - INFO - Database 'student_db' ensured.
+2026-07-03 11:45:41,183 - INFO - Table 'students' ensured.
+2026-07-03 11:45:41,195 - INFO - Inserted record with student_id=1
+2026-07-03 11:45:41,199 - INFO - Inserted record with student_id=2
+2026-07-03 11:45:41,202 - INFO - Updated record with student_id=1
+2026-07-03 11:45:41,202 - INFO - ETL completed: 2 inserted, 1 updated
+2026-07-03 11:45:41,207 - INFO - Exported 2 rows to exported_students.csv
+2026-07-03 11:48:37,325 - INFO - === ETL Pipeline Finished ===
+2026-07-03 11:48:40,014 - Connected to MySQL.
+2026-07-03 11:48:40,016 - Table 'students' ready.
+2026-07-03 11:48:40,024 - Updated student_id=1
+2026-07-03 11:48:40,024 - Updated student_id=2
+2026-07-03 11:48:40,024 - Updated student_id=1
+2026-07-03 11:48:40,024 - ETL done: 0 inserted, 3 updated.
+2026-07-03 11:48:40,024 - Exported 2 rows to exported_students.csv
+2026-07-03 11:49:50,198 - Added student.

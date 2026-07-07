@@ -1,0 +1,6 @@
+2026-07-03 12:22:38,302 - Skipped record missing student_id: {'id': 1, 'first_name': 'John', 'last_name': 'Doe', 'age': 20, 'gender': 'Male', 'email': 'john.doe@example.com', 'phone_number': '123-456-7890'}
+2026-07-03 12:22:38,302 - Skipped record missing student_id: {'id': 2, 'first_name': 'Jane', 'last_name': 'Williams', 'age': 23, 'gender': 'Female', 'email': 'jane.williams@example.com', 'phone_number': '999-888-7777'}
+2026-07-03 12:22:38,304 - Skipped record missing student_id: {'id': 3, 'first_name': 'Alice', 'last_name': 'Johnson', 'age': 19, 'gender': 'Female', 'email': 'alice.johnson@example.com', 'phone_number': '555-123-4567'}
+2026-07-03 12:26:41,626 - Skipped record missing student_id: {'id': 1, 'first_name': 'John', 'last_name': 'Doe', 'age': 20, 'gender': 'Male', 'email': 'john.doe@example.com', 'phone_number': '123-456-7890'}
+2026-07-03 12:26:41,626 - Skipped record missing student_id: {'id': 2, 'first_name': 'Jane', 'last_name': 'Williams', 'age': 23, 'gender': 'Female', 'email': 'jane.williams@example.com', 'phone_number': '999-888-7777'}
+2026-07-03 12:26:41,626 - Skipped record missing student_id: {'id': 3, 'first_name': 'Alice', 'last_name': 'Johnson', 'age': 19, 'gender': 'Female', 'email': 'alice.johnson@example.com', 'phone_number': '555-123-4567'}

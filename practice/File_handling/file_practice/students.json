@@ -1,0 +1,25 @@
+{
+    "student": [
+        {
+            "student_id": 1,
+            "first_name": "John",
+            "last_name": "Doe",
+            "age": 20,
+            "grade": "A"
+        },
+        {
+            "student_id": 2,
+            "first_name": "Jane",
+            "last_name": "Smith",
+            "age": 22,
+            "grade": "B"
+        },
+        {
+            "student_id": 1,
+            "first_name": "John",
+            "last_name": "Doe",
+            "age": 21,
+            "grade": "A+"
+        }
+    ]
+}
